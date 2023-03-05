@@ -37,7 +37,7 @@ updated every time I bump the versions:
 
 ## Tech stack
 
-If you don't like some of these choices that's no problem, you can swap them
+If you don't like some of these choices that's not a problem, you can swap them
 out for something else on your own.
 
 ### Back-end
@@ -108,7 +108,7 @@ not all) note worthy additions and changes.
 
 Besides the Django app itself:
 
-- Docker support has been added which would be any files having `*docker*` in
+- Docker support has been added which would be any file having `*docker*` in
   its name
 - GitHub Actions have been set up
 - A `requirements-lock.txt` file has been introduced using `pip3`. The
@@ -235,7 +235,7 @@ we cover how to customize this example app's name with an automated script
 
 ### `.env`
 
-This file is ignored from version control so it will never be commit. There's a
+This file is ignored from version control so it will never be committed. There's a
 number of environment variables defined here that control certain options and
 behavior of the application. Everything is documented there.
 
